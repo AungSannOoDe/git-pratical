@@ -5,3 +5,4 @@ total=mark_1+mark_2
 print("name",name)
 print("total",total)
 print("Hello World")
+print("Hello")
